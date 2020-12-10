@@ -4,7 +4,19 @@
 .idea/
 *.iml
 *.iws
-
+*.db
+*.log
+/target
+/bin
+/**/results
+/**/.idea
+/**/out
+/**/*.iml
+/**/.idea
+/**/out
+/**/*.iml
+/**/target
+*.swp
 # Maven
 log/
 target/
